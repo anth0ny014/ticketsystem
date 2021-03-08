@@ -8,7 +8,7 @@
     <script src="javascripts/jquery.min.js"></script>
     <script src="javascripts/popper.min.js"></script>
     <script src="javascripts/bootstrap.min.js"></script>
-    <title>Ticket System</title>
+    <title>Ticket Systems</title>
 </head>
 <body>
     
